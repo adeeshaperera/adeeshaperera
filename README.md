@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeeshaperera&label=Profile%20views&color=0e75b6&style=flat" alt="adeeshaperera" /> </p>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Busines Information System**
 
 - 📫 How to reach me **adeeshaperera2003@gmail.com**
 
